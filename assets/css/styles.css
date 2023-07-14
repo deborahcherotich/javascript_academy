@@ -1,0 +1,32 @@
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600;
+    height: 400;
+    margin-bottom: 15px;
+    border: 10px;
+}
+
+.image2 {
+    width: 600;
+    height: 400;
+}
+
+.image3 {
+    width: 600;
+    height: 400;
+    float: right;
+}
+
+.images {
+
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px;
+    border-radius: border 10px
+}

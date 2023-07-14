@@ -1,0 +1,1 @@
+document.getElementById("pg").style.color = "green";
